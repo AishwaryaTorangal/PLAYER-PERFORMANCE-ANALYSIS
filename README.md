@@ -1,7 +1,7 @@
 # Player Performance Analysis
 
 ## Abstract
-Our Streamlit application simplifies data management with intuitive CRUD operations on a DataFrame. Users seamlessly input, modify, or remove data, visualize distributions, and benefit from robust error handling.
+Our Streamlit application simplifies data management with intuitive CRUD operations on a DataFrame. Users seamlessly input, modify, or remove data, visualize distributions, its also give feedback of the players based on their performance in the matches played previously and benefit from robust error handling.
 
 ## Project Introduction
 Our tool, built with Streamlit, streamlines Excel data management. Users can effortlessly add, update, delete, display, and visualize data, enhancing productivity.
