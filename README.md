@@ -26,6 +26,7 @@ Our tool, built with Streamlit, streamlines Excel data management. Users can eff
 - User selects actions from sidebar: Create, Update, Delete, Display, or Plot.
 - Corresponding functionalities executed with real-time data updates.
 - Welcoming statement with current date and time provided.
+- It also gives feedback of player based on performance.
 - Continuous operation until user exit.
 
 ## Conclusion
