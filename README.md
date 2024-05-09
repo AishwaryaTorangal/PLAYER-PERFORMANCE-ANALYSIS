@@ -8,7 +8,7 @@ Our tool, built with Streamlit, streamlines Excel data management. Users can eff
 
 ## Key Features
 - **User-Friendly Interface:** Intuitive web interface for efficient Excel data management.
-- **Streamlit Power:** Harnesses Python language along with libraries like Pandas, Matplotlib, Seaborn, NumPy, and StreamlitStatsMat for robust data manipulation and visualization.
+- **Streamlit Power:** Harnesses Python language along with libraries like Pandas, Matplotlib, Seaborn, NumPy, and Streamlit for robust data manipulation and visualization.
 - **Flexibility:** Offers options for CRUD operations on data, catering to diverse user needs.
 - **Error Handling:** Effective mechanisms to address errors and provide informative feedback.
 - **Continuous Improvement:** Planned updates based on user feedback for responsive application evolution.
